@@ -1,8 +1,8 @@
-#NY Tax Nexus
+# NY Tax Nexus
 
 This rest service is an API to return New York Tax Nexus rates. List of endpoints below.
 
-##What Is a Tax Nexus?
+## What Is a Tax Nexus?
 The term "nexus" is used in tax law to describe a situation in which a business has a tax presence in a particular state. A nexus is basically a connection between the taxing authority and an entity that must collect or pay the tax.
 
 Two clauses of the U.S. Constitution form the origin of a tax nexus:
@@ -14,7 +14,7 @@ Everything about a nexus has to do with "presence," but that presence can be def
 
 Having a nexus can also describe the amount and degree of business activity that must be present before a state can tax an entity's income or sales within its jurisdiction. The taxpaying entity must pay and collect sales taxes in that state if it has a nexus there, and it must pay income tax on income generated there. 
 
-##Nexus for Sales Tax Purposes
+## Nexus for Sales Tax Purposes
 Nexus is determined more loosely for sales tax purposes. A business might have sales tax nexus in a state because:
 
 - It has a physical location in the state.
